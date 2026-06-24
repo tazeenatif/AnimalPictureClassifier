@@ -114,20 +114,18 @@ Classification of 10 visually similar bird species using transfer learning with 
 ## Repository Structure
 
 ```text
-AnimalPictureClassifier/
+code/
 │
-├── Task1/
-│   ├── data/
-│   ├── notebooks/
-│   └── models/
+├── task1/
+│   ├── data_loader.py/
+│   ├── submission_task1.csv/
+│   └── train.py/
 │
-├── Task2/
-│   ├── data/
-│   ├── notebooks/
-│   └── models/
+├── task2/
+│   ├── data_loader.py/
+│   ├── submission_task2.csv/
+│   └── train.py/
 │
-├── report/
-├── requirements.txt
 └── README.md
 ```
 
